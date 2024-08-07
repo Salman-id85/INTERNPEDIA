@@ -97,7 +97,7 @@ Model Persistence
 # Save Model: 
 Store the trained model for future use. This allows you to deploy the model without retraining and apply it to new data as needed.
 
-# code ( )
+# code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_2)
 
 # Unemployement-Analysis-With-Python
 
@@ -142,7 +142,7 @@ Model Persistence (if applicable)
 # Save Models: 
 If you develop predictive models, save them for future use. This allows you to reuse the models without retraining them and ensures that new data can be processed using the same models.
 
-# code ( )
+# code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_2)
 
 # Credit-Card-Fraud-Detection
 
