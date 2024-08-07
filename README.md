@@ -173,3 +173,6 @@ Save Models: Store the trained model and vectorizer to disk using joblib.dump().
 This detailed explanation covers the essential steps of setting up, preparing, and executing an email spam detection project using Python. Each section is designed to ensure that the project is well-organized, the data is properly handled, the model is effectively trained and evaluated, and the results are preserved for future use.
 
 # code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_4)
+
+
+# code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_5)
