@@ -102,7 +102,7 @@ Store the trained model for future use. This allows you to deploy the model with
 
 # code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_2)
 
-# Task 4
+# Task 3
 
 # Unemployement-Analysis-With-Python
 
@@ -149,7 +149,7 @@ If you develop predictive models, save them for future use. This allows you to r
 
 # code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_2)
 
-# Task 5
+# Task 4
 
 # Credit-Card-Fraud-Detection
 
@@ -180,6 +180,8 @@ Save Models: Store the trained model and vectorizer to disk using joblib.dump().
 This detailed explanation covers the essential steps of setting up, preparing, and executing an email spam detection project using Python. Each section is designed to ensure that the project is well-organized, the data is properly handled, the model is effectively trained and evaluated, and the results are preserved for future use.
 
 # code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_4)
+
+# Task 5
 
 # Email-Spam-Detection-With-Machine-Learning
 
