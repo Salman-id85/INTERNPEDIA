@@ -54,7 +54,7 @@ Report: Summarize methodology, results, and insights in a detailed report.
 # Refine the Model
 Iterate:Based on evaluation results, refine features, adjust parameters, or try alternative models to improve accuracy and performance.
 
-#code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_1 )
+# code (https://github.com/Salman-id85/INTERNPEDIA/tree/main/InternPedia_Task_1 )
 
 # Task 2
 
